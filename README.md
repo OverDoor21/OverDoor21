@@ -8,10 +8,21 @@
 </div>
  <h1>About Me :</h1>
   I am a .Net Developer
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  
+- :telescope: I’m student of computer science,interesting in creating web apps 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Always exloring for something new and interesting for me.Also I line to create something like new apps or 3d models.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to read classic books and play computer games
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
