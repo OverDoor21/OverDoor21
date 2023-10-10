@@ -11,7 +11,7 @@
   
 - :telescope: I’m student of computer science,interesting in creating web apps 
 
-- :seedling: Always exloring for something new and interesting for me.Also I line to create something like new apps or 3d models.
+- :seedling: Always exploring for something new and interesting for me.Also I line to create something like new apps or 3d models.
 
 - :zap: In my free time, I like to read classic books and play computer games
 
@@ -34,3 +34,4 @@
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OverDoor21&theme=dark&stroke=E5EB3C&ring=EB0000" alt="GitHub Streak" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?overdoor21=anuraghazra&show_icons=true)
