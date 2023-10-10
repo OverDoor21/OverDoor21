@@ -28,10 +28,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OverDoor21&theme=dark&stroke=E5EB3C&ring=EB0000" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?OverDoor21&theme=dark&stroke=E5EB3C&ring=EB0000" alt="GitHub Streak" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?overdoor21=anuraghazra&show_icons=true)
