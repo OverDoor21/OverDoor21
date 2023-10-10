@@ -36,4 +36,4 @@
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?OverDoor21&theme=dark&stroke=E5EB3C&ring=EB0000" alt="GitHub Streak" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?overdoor21=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/OverDoor21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
