@@ -18,6 +18,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
@@ -26,3 +27,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OverDoor21&theme=dark&stroke=E5EB3C&ring=EB0000" alt="GitHub Streak" /></a>
