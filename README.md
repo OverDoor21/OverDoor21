@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
 </div>
-  ### :woman_technologist: About Me :
+ <h1>About Me :</h1>
   I am a .Net Developer
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
