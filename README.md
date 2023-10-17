@@ -7,11 +7,11 @@
   </a>
 </div>
  <h1>About Me :</h1>
-  I am a .Net Developer
+  I am a .Net Developer,that allways looking for some interesting projects.Also im absorbed in studing something new like developing bots,AI or databases
   
 - :telescope: I’m student of computer science,interesting in creating web apps 
 
-- :seedling: Always exploring for something new and interesting for me.Also I line to create something like new apps or 3d models.
+- :seedling: Always exploring for something new and interesting for me.Also I like to create something like new apps or 3d models.
 
 - :zap: In my free time, I like to read classic books and play computer games
 
