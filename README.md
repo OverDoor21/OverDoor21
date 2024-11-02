@@ -30,6 +30,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/>
 </div>
 
 
