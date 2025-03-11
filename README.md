@@ -6,15 +6,17 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
 </div>
- <h1>About Me :</h1>
-  I am a .Net Developer,that allways looking for some interesting projects.Also im absorbed in studing something new like developing bots,AI or databases
-  
-- :telescope: I’m student of computer science,interesting in creating web apps 
+ <h1>👋 Hi there! I'm a .NET Developer and Cloud Engineer :</h1>
+  I'm always looking for interesting projects and new challenges. Passionate about cloud solutions, APIs, and automation, I focus on building efficient and scalable applications. I enjoy learning new technologies, whether it's AI or database management.
 
-- :seedling: Always exploring for something new and interesting for me.Also I like to create something like new apps or 3d models.
-
-- :zap: In my free time, I like to read classic books and play computer games
-
+💡 About Me
+🎓 Computer Science Student | Interested in web app development and cloud solutions.
+🌍 Azure Engineer | Working with Azure API Management (APIM), Infrastructure as Code (Terraform & Bicep), Azure Functions, and Cosmos DB.
+🔗 API & Backend Development | Experienced in GraphQL, REST APIs, and microservices architecture.
+🐳 DevOps & Containers | Proficient with Docker, CI/CD pipelines, and automation.
+🏗 Creating & Innovating | I love building new applications and designing 3D models in my free time.
+📖 Beyond Coding | A fan of classic books, strategy games, and learning new tech.
+🚀 Always open to collaboration and exploring new technologies!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
