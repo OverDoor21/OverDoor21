@@ -10,12 +10,19 @@
   I'm always looking for interesting projects and new challenges. Passionate about cloud solutions, APIs, and automation, I focus on building efficient and scalable applications. I enjoy learning new technologies, whether it's AI or database management.
 
 💡 About Me
+
 🎓 Computer Science Student | Interested in web app development and cloud solutions.
+
 🌍 Azure Engineer | Working with Azure API Management (APIM), Infrastructure as Code (Terraform & Bicep), Azure Functions, and Cosmos DB.
+
 🔗 API & Backend Development | Experienced in GraphQL, REST APIs, and microservices architecture.
+
 🐳 DevOps & Containers | Proficient with Docker, CI/CD pipelines, and automation.
+
 🏗 Creating & Innovating | I love building new applications and designing 3D models in my free time.
+
 📖 Beyond Coding | A fan of classic books, strategy games, and learning new tech.
+
 🚀 Always open to collaboration and exploring new technologies!
 ---
 
